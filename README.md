@@ -182,7 +182,7 @@
 - Course: [CS285 at UC Berkeley Deep Reinforcement Learning - Sergey Levine](https://rail.eecs.berkeley.edu/deeprlcourse/)
 - Book: [Reinforcement Learning - Richard S. Sutton & Andrew G. Barto](https://g.co/kgs/fJafLnF)
 - Project:
-- Notes:
+- Notes:    
 
 Next Steps and Resources:
 - Book: [Grokking Deep Reinforcement Learning - Miguel Morales](https://g.co/kgs/8p14wew)
